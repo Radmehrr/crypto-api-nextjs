@@ -1,0 +1,26 @@
+.img {
+  margin: 50px auto;
+  border: 1px solid #ffff2e;
+  max-width: 20rem;
+  align-items: center;
+  text-align: center;
+  height: 15rem;
+  cursor: pointer;
+}
+
+.img img {
+  margin-top: 15px;
+  width: 13rem;
+}
+
+.data {
+  width: 20rem;
+  margin: 0px auto;
+  direction: rtl;
+}
+
+.country {
+  width: 150px;
+  background-color: red;
+  padding-left: 10px !important;
+}

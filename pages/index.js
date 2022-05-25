@@ -26,7 +26,7 @@ export default function HomePage() {
   return (
     <div>
       <Head>
-        <title>crypto</title>
+        <title>Crypto-Currency</title>
       </Head>
       <div className="coin_app">
         <SearchBar type="text" placeholder="Search" onChange={handleChange} />
